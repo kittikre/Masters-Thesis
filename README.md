@@ -1,4 +1,4 @@
-# Masters-Thesis
+# Evaluating Deep Learning Techniques for the Automatic Detection of Abnormal EEG Activity
 
 
 The process of manually identifying EEG recordings as epileptic (‘abnormal’) or nonepileptic
